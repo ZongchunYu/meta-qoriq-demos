@@ -179,6 +179,7 @@ LAYER_LIST=" \
     meta-openembedded/meta-gnome \
     meta-openembedded/meta-filesystems \
     meta-openembedded/meta-webserver \
+    meta-openembedded/meta-perl \
     meta-virtualization \
     meta-security \
     \
